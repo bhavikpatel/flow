@@ -18,6 +18,8 @@ Version 0.9 *(TBD)*
 
   * Listener is now called Dispatcher, and can be set on a Flow after construction.
 
+  * Added ActivityFlowSupport for easier integration.
+
   * Updated sample app to demonstrate all of the above.
 
 Version 0.8 *(2014-09-17)*
